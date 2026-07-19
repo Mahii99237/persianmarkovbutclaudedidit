@@ -18,7 +18,7 @@
 
 set -euo pipefail
 
-REPO_URL="${REPO_URL:-https://github.com/CHANGE_ME/markov-fa.git}"
+REPO_URL="${REPO_URL:-https://github.com/Mahii99237/persianmarkovbutclaudedidit.git}"
 INSTALL_DIR="${INSTALL_DIR:-/opt/markov-fa}"
 DB_NAME="${DB_NAME:-markov_bot}"
 DB_USER="${DB_USER:-markov}"
